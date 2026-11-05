@@ -10,4 +10,4 @@ homeOS richiede Android 10 o successivo. Per aggiornare un’installazione esist
 
 ## Contenuto delle release
 
-Ogni versione include l’APK, le note in italiano su cosa è cambiato e il riferimento alla build. Questa repository non contiene credenziali né configurazioni private di compilazione.
+Ogni versione include l’APK, le note in italiano su cosa è cambiato e il riferimento alla build. Questa repository non contiene credenziali privilegiate né configurazioni private di compilazione.
